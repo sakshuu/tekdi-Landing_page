@@ -1,0 +1,6 @@
+export { default as Digital } from "./Digital"
+export { default as Footer } from "./Footer"
+export { default as Industries } from "./Industries"
+export { default as MyNavbar } from "./MyNavbar"
+export { default as Products_Platforms } from "./Products_Platforms"
+export { default as Success } from "./Success"
